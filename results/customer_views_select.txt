@@ -1,0 +1,8 @@
+-- Kết quả mẫu sau khi chạy: SELECT * FROM customer_views;
+customerNumber | customerName             | phone
+-------------------------------------------------------
+103            | Atelier graphique        | 40.32.2555
+112            | Signal Gift Stores       | 7025551838
+114            | Australian Collectors... | 03 9520 4555
+...
+175            | Gift Depot Inc.         | 2035552570
