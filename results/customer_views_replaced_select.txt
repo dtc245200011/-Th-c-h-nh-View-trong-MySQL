@@ -1,0 +1,5 @@
+-- Kết quả mẫu sau khi chạy replace_view và SELECT * FROM customer_views;
+-- (chỉ những khách hàng có city = 'Nantes')
+customerNumber | customerName       | contactFirstName | contactLastName | phone
+-----------------------------------------------------------------------------
+... (nếu có dữ liệu city = 'Nantes') ...
